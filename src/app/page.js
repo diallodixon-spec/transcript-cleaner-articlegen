@@ -170,7 +170,7 @@ export default function Home() {
   return (
     <div className="page-container">
       <div className="header">
-        <h1>Podcast Transcript Cleaner</h1>
+        <h1>Podcast Content Assistant</h1>
         <p>
           Upload a transcript, correct names, generate articles, and create social media posts.
         </p>
@@ -357,7 +357,7 @@ export default function Home() {
           fontSize: "14px"
         }}
       >
-        Podcast Transcript Cleaner
+        Podcast Content Assistant
       </div>
 
     </div>
