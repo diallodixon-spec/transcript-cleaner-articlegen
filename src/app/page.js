@@ -175,7 +175,7 @@ export default function Home() {
           Upload a transcript, correct names, generate articles, and create social media posts.
         </p>
       </div>
-
+      <p>Select a transcript file to upload:</p>
       <input
         type="file"
         accept=".txt"
