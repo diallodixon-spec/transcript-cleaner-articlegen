@@ -17,7 +17,7 @@ export async function POST(req) {
     }
 
     const resp = await together.chat.completions.create({
-      model: "openai/gpt-oss-120b",
+      model: "meta-models/Muse-Glimmer-30B",
       temperature: 0.5,
       max_tokens: 4000,
       messages: [
